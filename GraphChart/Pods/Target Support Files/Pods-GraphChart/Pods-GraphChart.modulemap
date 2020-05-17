@@ -1,0 +1,6 @@
+framework module Pods_GraphChart {
+  umbrella header "Pods-GraphChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-GraphChart/Pods-GraphChart-frameworks.sh
+${BUILT_PRODUCTS_DIR}/EFCountingLabel/EFCountingLabel.framework
+${BUILT_PRODUCTS_DIR}/SwiftChart/SwiftChart.framework
